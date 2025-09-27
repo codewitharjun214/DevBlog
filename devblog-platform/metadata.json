@@ -1,0 +1,5 @@
+{
+  "name": "DevBlog Platform",
+  "description": "A personal blogging platform where users can create, edit, and delete posts, add categories, and comment. This is a frontend implementation with a mocked backend, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
