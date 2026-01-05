@@ -1,20 +1,68 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📝 DevBlog Platform – MERN + TypeScript
 
-# Run and deploy your AI Studio app
+A full-stack **Developer Blogging Platform** built using the **MERN stack with TypeScript**.  
+This project allows developers to create, publish, and manage blog posts in a secure and scalable environment.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1csSEiPzHuxYa9VDRei4eUoe72CO6wgfA
+## 🚀 About the Project
 
-## Run Locally
+The DevBlog Platform is designed for developers to share technical articles and knowledge.  
+It focuses on full-stack architecture, type safety with TypeScript, authentication, and CRUD operations.
 
-**Prerequisites:**  Node.js
+---
 
+## ✨ Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- User authentication and authorization
+- Create, edit, and delete blog posts
+- Secure API using JWT
+- Role-based access (author / user)
+- Responsive frontend UI
+- RESTful backend architecture
+
+---
+
+## 🛠 Technologies Used
+
+- MongoDB  
+- Express.js  
+- React.js  
+- Node.js  
+- TypeScript  
+- JWT Authentication  
+- REST API  
+
+---
+
+## ⚙️ How to Use
+
+1. Clone the repository  
+2. Install dependencies for frontend and backend  
+3. Configure environment variables  
+4. Run backend and frontend servers  
+5. Access the application in your browser  
+
+---
+
+## 🔮 Future Enhancements
+
+- Add comments and likes system
+- Markdown editor for blogs
+- Search and tag functionality
+- Admin dashboard
+- Deploy using cloud services
+- Add SEO optimization
+
+---
+
+## 👨‍💻 Author
+
+**Arjun Kadam**  
+MERN Stack Developer | TypeScript | Full Stack Developer
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐**.
